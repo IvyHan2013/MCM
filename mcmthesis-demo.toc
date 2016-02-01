@@ -1,16 +1,25 @@
 \contentsline {section}{\numberline {1}Introduction}{2}{section.1}
 \contentsline {subsection}{\numberline {1.1}Introduction}{2}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Other Assumptions}{3}{subsection.1.2}
-\contentsline {section}{\numberline {2}The Models}{3}{section.2}
-\contentsline {section}{\numberline {3}Analysis of water availability in specific region}{5}{section.3}
-\contentsline {subsection}{\numberline {3.1}Historical and current situation}{5}{subsection.3.1}
-\contentsline {section}{\numberline {4}The Model Results}{5}{section.4}
-\contentsline {section}{\numberline {5}Validating the Model}{5}{section.5}
-\contentsline {section}{\numberline {6}Conclusions}{5}{section.6}
-\contentsline {section}{\numberline {7}A Summary}{5}{section.7}
-\contentsline {section}{\numberline {8}Evaluate of the Mode}{6}{section.8}
-\contentsline {section}{\numberline {9}Strengths and weaknesses}{6}{section.9}
-\contentsline {subsection}{\numberline {9.1}Strengths}{6}{subsection.9.1}
-\contentsline {section}{Appendices}{6}{section*.2}
-\contentsline {section}{Appendix \numberline {A}First appendix}{6}{Appendix.a.A}
-\contentsline {section}{Appendix \numberline {B}Second appendix}{7}{Appendix.a.B}
+\contentsline {subsection}{\numberline {1.2}Fundamental Assumptions}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Theory Methodology}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Artificial Neural Network}{3}{subsection.2.1}
+\contentsline {section}{\numberline {3}The Models}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}WCI Measurement Model}{4}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Calculation}{4}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Evaluation Standard}{5}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Natural Renewable Water Supply Model}{5}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Natural Renewable Water Supply}{5}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Variable Prediction}{6}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Water Demand Model}{6}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Water Demand}{6}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Variable Prediction}{8}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}model summary and criteria for water scarcity}{8}{subsection.3.4}
+\contentsline {section}{\numberline {4}Analysis of water availability in specific region}{8}{section.4}
+\contentsline {subsection}{\numberline {4.1}Historical and current situation}{8}{subsection.4.1}
+\contentsline {section}{\numberline {5}The Model Results}{9}{section.5}
+\contentsline {section}{\numberline {6}Validating the Model}{9}{section.6}
+\contentsline {section}{\numberline {7}Conclusions}{9}{section.7}
+\contentsline {section}{\numberline {8}A Summary}{9}{section.8}
+\contentsline {section}{\numberline {9}Evaluate of the Mode}{9}{section.9}
+\contentsline {section}{\numberline {10}Strengths and weaknesses}{9}{section.10}
+\contentsline {subsection}{\numberline {10.1}Strengths}{9}{subsection.10.1}
